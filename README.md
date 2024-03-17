@@ -1,8 +1,7 @@
 <h1 align="center">Welcome Shrimp Bit</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bmbnk1301&label=Profile%20views&color=0e75b6&style=flat" alt="bmbnk1301" /> </p>
-
-
 <div> <a href="https://github.com/bmbnk1301" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
   
 </div><h3 align="left">Languages and Tools:</h3>
 
