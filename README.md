@@ -1,4 +1,4 @@
-<h1 align="center">Welcome Shrimp Bit</h1>
+<h1 align="center">Welcome to Shrimp Bit</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bmbnk1301&label=Profile%20views&color=0e75b6&style=flat" alt="bmbnk1301" /> </p>
 
 
