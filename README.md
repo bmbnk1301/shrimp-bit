@@ -1,7 +1,7 @@
 <h1 align="center">Welcome Shrimp Bit</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bmbnk1301&label=Profile%20views&color=0e75b6&style=flat" alt="bmbnk1301" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bmbnk1301&label=Profile%20views&color=0e75b6&style=flat" alt="bmbnk1301" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bmbnk1301&theme=" alt="bmbnk1301" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bmbnk1301&theme=" alt="bmbnk1301" /></a> </p>
 
 <div> <a href="https://github.com/bmbnk1301" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
@@ -18,9 +18,10 @@
 </p>
 
 <h3 align="left">Stars</h3>
+
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bmbnk1301&theme=" alt="bmbnk1301" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bmbnk1301&theme=default"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
