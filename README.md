@@ -2,10 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bmbnk1301&label=Profile%20views&color=0e75b6&style=flat" alt="bmbnk1301" /> </p>
 
 
-<h3 align="left">Stars</h3>
 
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bmbnk1301&theme=" alt="bmbnk1301" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bmbnk1301&theme=default"/>
